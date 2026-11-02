@@ -109,6 +109,8 @@ We envision SofTee Crochet Co. growing into trusted brand that is known for uniq
 - **Forms:** HTML5 validation attributes plus JavaScript error messages; the enquity form sneds with AJAX and shows a reply (cost and availability); the contact form builds an email for the visitor to send
 - *SEO:** unique titles and descriptions, header order, image names and alt text, internal links, Open Graph tags, 'LocalBusiness' data, 'robots.txt', 'sitemap.xml'
 - **Page speed and security:** compressed images, lazyloading, 'defer', '_headers' and '.htaccess' with a Content Security Policy, Subresource Integrity on LeafLet
+- Deployed website on free platform - netlify
+- Started the whole project over because the netlify displayed old code and could not display the css and js code
   
 ---  
 
