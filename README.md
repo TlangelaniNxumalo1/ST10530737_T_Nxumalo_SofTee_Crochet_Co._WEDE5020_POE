@@ -128,6 +128,7 @@ We envision SofTee Crochet Co. growing into trusted brand that is known for uniq
 | 31/09/2026 | v3.1 | Added gallery with lightbox and products loaded from JSON with |
 | 31/09/2026 | v3.2 |  Added form validation, AJAX enquiry form and contact email |
 | 31/09/2026 | v3.3 | Added SEO updates, robots.txt, sitemap.xml and security headers |
+| 02/10/2026 | v3.4 | Published website on netlify   |
 
 ---
 
